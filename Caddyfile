@@ -1,3 +1,5 @@
 :2015 {
-    forwardproxy
+    forwardproxy {
+        hide_ip
+    }
 }
