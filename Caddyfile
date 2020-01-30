@@ -1,5 +1,6 @@
 :2015 {
     forwardproxy {
         hide_ip
+        hide_via
     }
 }
